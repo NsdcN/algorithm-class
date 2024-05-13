@@ -1,1 +1,4 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+5.线性时间排序.mp4 filter=lfs diff=lfs merge=lfs -text
+6.顺序统计、中值.mp4 filter=lfs diff=lfs merge=lfs -text
+7.哈希表.mp4 filter=lfs diff=lfs merge=lfs -text
